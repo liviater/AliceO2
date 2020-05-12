@@ -8,11 +8,10 @@
 # granted to it by virtue of its status as an Intergovernmental Organization or
 # submit itself to any jurisdiction.
 
-add_subdirectory(Base)
-add_subdirectory(Clustering)
-add_subdirectory(Raw)
-add_subdirectory(Simulation)
-add_subdirectory(TestingSimTools)
-add_subdirectory(Tracking)
-add_subdirectory(Workflow)
-add_subdirectory(Lut)
+o2_add_executable(
+  read-tracks
+  COMPONENT_NAME mid
+  SOURCES mid-read-tracks.cxx ReadTracks.cxx
+  PUBLIC_LINK_LIBRARIES O2::DataFormatsMID O2::CommonDataFormat O2::SimulationDataFormat O2::MIDSimulation)
+
+
