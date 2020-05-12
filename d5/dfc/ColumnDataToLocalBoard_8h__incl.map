@@ -1,0 +1,5 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/include/MIDRaw/ColumnDataToLocalBoard.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/include/MIDRaw/ColumnDataToLocalBoard.h">
+<area shape="rect" id="node6" href="$d3/d53/ColumnData_8h.html" title="Strip pattern (aka digits) " alt="" coords="5,139,233,165"/>
+<area shape="rect" id="node9" href="$db/d83/CrateMapper_8h.html" title="Mapper to convert the RO Ids to a format suitable for O2. " alt="" coords="514,139,687,165"/>
+<area shape="rect" id="node11" href="$d3/d4a/LocalBoardRO_8h.html" title="Structure to store the FEE local board information. " alt="" coords="258,139,439,165"/>
+</map>

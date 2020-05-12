@@ -1,0 +1,57 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/TPCClusterFinder/GPUTPCCFClusterizer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/GPU/GPUTracking/TPCClusterFinder/GPUTPCCFClusterizer.cxx">
+<area shape="rect" id="node2" href="$dd/d99/GPUTPCCFClusterizer_8h.html" title="GPUTPCCFClusterizer.h" alt="" coords="1075,273,1247,300"/>
+<area shape="rect" id="node44" href="$d6/d63/CfConsts_8h.html" title="CfConsts.h" alt="" coords="1011,199,1103,225"/>
+<area shape="rect" id="node45" href="$da/de7/CfUtils_8h.html" title="CfUtils.h" alt="" coords="1703,124,1781,151"/>
+<area shape="rect" id="node57" href="$d3/def/ClusterAccumulator_8h.html" title="ClusterAccumulator.h" alt="" coords="2317,273,2479,300"/>
+<area shape="rect" id="node58" href="$d6/d20/GPUHostDataTypes_8h.html" title="GPUHostDataTypes.h" alt="" coords="2829,572,2989,599"/>
+<area shape="rect" id="node71" href="$d6/d68/MCLabelAccumulator_8h.html" title="MCLabelAccumulator.h" alt="" coords="2503,273,2674,300"/>
+<area shape="rect" id="node3" href="$d9/db0/clusterFinderDefs_8h.html" title="clusterFinderDefs.h" alt="" coords="1903,497,2050,524"/>
+<area shape="rect" id="node14" href="$d9/de5/GPUGeneralKernels_8h.html" title="GPUGeneralKernels.h" alt="" coords="1037,348,1199,375"/>
+<area shape="rect" id="node17" href="$db/df8/GPUConstantMem_8h.html" title="GPUConstantMem.h" alt="" coords="810,348,962,375"/>
+<area shape="rect" id="node39" href="$d6/d4b/GPUTPCClusterFinder_8h.html" title="GPUTPCClusterFinder.h" alt="" coords="1223,348,1394,375"/>
+<area shape="rect" id="node41" href="$d7/d60/Array2D_8h.html" title="Array2D.h" alt="" coords="1933,348,2020,375"/>
+<area shape="rect" id="node43" href="$d1/d65/PackedCharge_8h.html" title="PackedCharge.h" alt="" coords="1723,348,1849,375"/>
+<area shape="rect" id="node4" href="$d2/d6d/GPUDef_8h.html" title="GPUDef.h" alt="" coords="1901,811,1985,837"/>
+<area shape="rect" id="node5" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="635,885,777,912"/>
+<area shape="rect" id="node8" href="$d2/d37/GPUDefConstantsAndSettings_8h.html" title="GPUDefConstantsAndSettings.h" alt="" coords="2077,885,2305,912"/>
+<area shape="rect" id="node9" href="$dc/de9/GPUDefGPUParameters_8h.html" title="GPUDefGPUParameters.h" alt="" coords="1623,885,1810,912"/>
+<area shape="rect" id="node11" href="$d3/d4c/GPUDefOpenCL12Templates_8h.html" title="GPUDefOpenCL12Templates.h" alt="" coords="1834,885,2053,912"/>
+<area shape="rect" id="node12" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2417,885,2584,912"/>
+<area shape="rect" id="node6" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="710,960,907,987"/>
+<area shape="rect" id="node7" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="521,960,686,987"/>
+<area shape="rect" id="node10" href="$d6/dff/GPUDefMacros_8h.html" title="GPUDefMacros.h" alt="" coords="1651,960,1782,987"/>
+<area shape="rect" id="node15" href="$d4/dc5/GPUDataTypes_8h.html" title="GPUDataTypes.h" alt="" coords="499,497,630,524"/>
+<area shape="rect" id="node18" href="$d6/d25/GPUTPCTracker_8h.html" title="GPUTPCTracker.h" alt="" coords="925,423,1058,449"/>
+<area shape="rect" id="node28" href="$df/d13/GPUParam_8h.html" title="GPUParam.h" alt="" coords="968,572,1071,599"/>
+<area shape="rect" id="node37" href="$d7/d4f/GPUTRDDef_8h.html" title="GPUTRDDef.h" alt="" coords="5,811,116,837"/>
+<area shape="rect" id="node38" href="$da/d28/GPUO2FakeClasses_8h.html" title="GPUO2FakeClasses.h" alt="" coords="485,423,645,449"/>
+<area shape="rect" id="node19" href="$da/dab/GPUTPCDef_8h.html" title="GPUTPCDef.h" alt="" coords="1801,736,1910,763"/>
+<area shape="rect" id="node21" href="$dd/d7b/GPUTPCHitId_8h.html" title="GPUTPCHitId.h" alt="" coords="911,497,1029,524"/>
+<area shape="rect" id="node22" href="$df/d4a/GPUTPCSliceData_8h.html" title="GPUTPCSliceData.h" alt="" coords="1053,497,1202,524"/>
+<area shape="rect" id="node33" href="$d6/d57/GPUProcessor_8h.html" title="GPUProcessor.h" alt="" coords="624,654,748,681"/>
+<area shape="rect" id="node34" href="$de/d15/GPUTPCTrackParam_8h.html" title="GPUTPCTrackParam.h" alt="" coords="1853,572,2015,599"/>
+<area shape="rect" id="node36" href="$db/d6e/GPUTPCTracklet_8h.html" title="GPUTPCTracklet.h" alt="" coords="2039,572,2178,599"/>
+<area shape="rect" id="node23" href="$d8/dff/GPUTPCRow_8h.html" title="GPUTPCRow.h" alt="" coords="1603,572,1716,599"/>
+<area shape="rect" id="node25" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="997,736,1151,763"/>
+<area shape="rect" id="node32" href="$d5/da6/GPUMemoryResource_8h.html" title="GPUMemoryResource.h" alt="" coords="756,572,931,599"/>
+<area shape="rect" id="node24" href="$d3/da7/GPUTPCGrid_8h.html" title="GPUTPCGrid.h" alt="" coords="1602,654,1717,681"/>
+<area shape="rect" id="node29" href="$dd/dc6/GPUSettings_8h.html" title="GPUSettings.h" alt="" coords="975,654,1090,681"/>
+<area shape="rect" id="node30" href="$d6/d1b/GPUTPCGeometry_8h.html" title="GPUTPCGeometry.h" alt="" coords="875,811,1025,837"/>
+<area shape="rect" id="node31" href="$d9/d9c/GPUTPCGMPolynomialField_8h.html" title="GPUTPCGMPolynomialField.h" alt="" coords="1367,654,1578,681"/>
+<area shape="rect" id="node35" href="$df/d00/GPUTPCBaseTrackParam_8h.html" title="GPUTPCBaseTrackParam.h" alt="" coords="1943,654,2138,681"/>
+<area shape="rect" id="node40" href="$d8/dcc/CfFragment_8h.html" title="CfFragment.h" alt="" coords="1183,423,1293,449"/>
+<area shape="rect" id="node42" href="$d1/d90/ChargePos_8h.html" title="ChargePos.h" alt="" coords="1925,423,2028,449"/>
+<area shape="rect" id="node46" href="$dd/d0b/GPUCommonAlgorithm_8h.html" title="GPUCommonAlgorithm.h" alt="" coords="337,736,523,763"/>
+<area shape="rect" id="node47" href="$d1/d59/GPUTPCClusterFinderKernels_8h.html" title="GPUTPCClusterFinderKernels.h" alt="" coords="1376,199,1596,225"/>
+<area shape="rect" id="node48" href="$dc/d10/GPUTPCCFChargeMapFiller_8h.html" title="GPUTPCCFChargeMapFiller.h" alt="" coords="1736,273,1943,300"/>
+<area shape="rect" id="node49" href="$d6/d92/GPUTPCCFPeakFinder_8h.html" title="GPUTPCCFPeakFinder.h" alt="" coords="1967,273,2141,300"/>
+<area shape="rect" id="node50" href="$d7/d30/GPUTPCCFNoiseSuppression_8h.html" title="GPUTPCCFNoiseSuppression.h" alt="" coords="1493,273,1711,300"/>
+<area shape="rect" id="node51" href="$dc/d21/GPUTPCCFDeconvolution_8h.html" title="GPUTPCCFDeconvolution.h" alt="" coords="1271,273,1469,300"/>
+<area shape="rect" id="node52" href="$dc/deb/GPUTPCCFStreamCompaction_8h.html" title="GPUTPCCFStreamCompaction.h" alt="" coords="771,273,999,300"/>
+<area shape="rect" id="node53" href="$dd/dd8/GPUTPCCFMCLabelFlattener_8h.html" title="GPUTPCCFMCLabelFlattener.h" alt="" coords="532,273,747,300"/>
+<area shape="rect" id="node54" href="$dc/d65/GPUTPCCFDecodeZS_8h.html" title="GPUTPCCFDecodeZS.h" alt="" coords="339,273,508,300"/>
+<area shape="rect" id="node55" href="$dd/d04/ZeroSuppression_8h.html" title="Definitions of TPC Zero Suppression Data Headers. " alt="" coords="293,654,549,681"/>
+<area shape="rect" id="node63" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="2660,654,2872,681"/>
+<area shape="rect" id="node64" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2947,647,3116,688"/>
+<area shape="rect" id="node70" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="2416,647,2585,688"/>
+</map>

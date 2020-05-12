@@ -1,0 +1,8 @@
+digraph "o2::mch::raw::DecoderLogic"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::mch::raw::DecoderLogic\n||+ DecoderLogic()\l+ DecoderLogic()\l+ headerIsComplete()\l+ moreDataAvailable()\l+ moreSampleToRead()\l+ moreWordsToRead()\l+ data10()\l+ pop10()\l+ addHeaderPart()\l+ addSample()\l+ completeHeader()\l+ decrementClusterSize()\l+ reset()\l+ setClusterSize()\l+ setClusterTime()\l+ setData()\l+ hasError()\l+ errorMessage()\l+ dsId()\l+ addSample()\l+ addSample()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

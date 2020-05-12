@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Tools/rawdump.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Tools/rawdump.cxx">
+<area shape="rect" id="node2" href="$d1/d53/DumpBuffer_8h.html" title="DumpBuffer.h" alt="" coords="825,124,935,151"/>
+<area shape="rect" id="node17" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="1382,206,1581,233"/>
+<area shape="rect" id="node18" href="$d0/d64/DataFormats_8h.html" title="MCHRawCommon/DataFormats.h" alt="" coords="1018,206,1257,233"/>
+<area shape="rect" id="node19" href="$dc/d36/PageDecoder_8h.html" title="MCHRawDecoder/PageDecoder.h" alt="" coords="1712,124,1947,151"/>
+<area shape="rect" id="node26" href="$d2/d71/MUON_2MCH_2Raw_2ElecMap_2include_2MCHRawElecMap_2Mapper_8h.html" title="MCHRawElecMap/Mapper.h" alt="" coords="2089,206,2287,233"/>
+<area shape="rect" id="node7" href="$d5/d49/SampaHeader_8h.html" title="MCHRawCommon/SampaHeader.h" alt="" coords="119,288,366,315"/>
+<area shape="rect" id="node10" href="$dc/d3a/RDHManip_8h.html" title="MCHRawCommon/RDHManip.h" alt="" coords="587,206,810,233"/>
+<area shape="rect" id="node15" href="$dd/d9a/RDHFields_8h.html" title="MCHRawCommon/RDHFields.h" alt="" coords="1079,288,1300,315"/>
+<area shape="rect" id="node21" href="$dd/d58/SampaChannelHandler_8h.html" title="MCHRawDecoder/SampaChannel\lHandler.h" alt="" coords="1705,199,1941,240"/>
+<area shape="rect" id="node22" href="$d0/d5b/SampaCluster_8h.html" title="MCHRawCommon/SampaCluster.h" alt="" coords="759,288,1004,315"/>
+<area shape="rect" id="node23" href="$d4/d09/DsElecId_8h.html" title="MCHRawElecMap/DsElecId.h" alt="" coords="2482,288,2689,315"/>
+<area shape="rect" id="node29" href="$d5/dcd/DsDetId_8h.html" title="MCHRawElecMap/DsDetId.h" alt="" coords="1841,288,2044,315"/>
+<area shape="rect" id="node30" href="$d8/d97/FeeLinkId_8h.html" title="MCHRawElecMap/FeeLinkId.h" alt="" coords="2247,288,2457,315"/>
+</map>

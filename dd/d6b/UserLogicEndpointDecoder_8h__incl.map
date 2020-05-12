@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Decoder/src/UserLogicEndpointDecoder.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Decoder/src/UserLogicEndpointDecoder.h">
+<area shape="rect" id="node3" href="$db/de7/UserLogicElinkDecoder_8h.html" title="UserLogicElinkDecoder.h" alt="" coords="769,213,952,240"/>
+<area shape="rect" id="node4" href="$d4/deb/Debug_8h.html" title="Debug.h" alt="" coords="296,295,372,322"/>
+<area shape="rect" id="node9" href="$dd/d58/SampaChannelHandler_8h.html" title="MCHRawDecoder/SampaChannel\lHandler.h" alt="" coords="1417,288,1653,329"/>
+<area shape="rect" id="node23" href="$d7/dee/MakeArray_8h.html" title="MakeArray.h" alt="" coords="67,131,169,158"/>
+<area shape="rect" id="node25" href="$dc/d46/Assertions_8h.html" title="Assertions.h" alt="" coords="257,131,360,158"/>
+<area shape="rect" id="node27" href="$d8/d97/FeeLinkId_8h.html" title="MCHRawElecMap/FeeLinkId.h" alt="" coords="2010,377,2221,404"/>
+<area shape="rect" id="node28" href="$d0/da1/PayloadDecoder_8h.html" title="PayloadDecoder.h" alt="" coords="1757,131,1895,158"/>
+<area shape="rect" id="node5" href="$d0/d64/DataFormats_8h.html" title="MCHRawCommon/DataFormats.h" alt="" coords="832,295,1071,322"/>
+<area shape="rect" id="node6" href="$d5/d49/SampaHeader_8h.html" title="MCHRawCommon/SampaHeader.h" alt="" coords="345,377,592,404"/>
+<area shape="rect" id="node14" href="$d4/d09/DsElecId_8h.html" title="MCHRawElecMap/DsElecId.h" alt="" coords="1435,377,1641,404"/>
+<area shape="rect" id="node11" href="$d0/d5b/SampaCluster_8h.html" title="MCHRawCommon/SampaCluster.h" alt="" coords="617,377,862,404"/>
+<area shape="rect" id="node29" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="2124,213,2323,240"/>
+<area shape="rect" id="node30" href="$dc/d36/PageDecoder_8h.html" title="MCHRawDecoder/PageDecoder.h" alt="" coords="1709,213,1943,240"/>
+<area shape="rect" id="node32" href="$d2/d71/MUON_2MCH_2Raw_2ElecMap_2include_2MCHRawElecMap_2Mapper_8h.html" title="MCHRawElecMap/Mapper.h" alt="" coords="1727,295,1925,322"/>
+<area shape="rect" id="node34" href="$d5/dcd/DsDetId_8h.html" title="MCHRawElecMap/DsDetId.h" alt="" coords="1783,377,1986,404"/>
+</map>

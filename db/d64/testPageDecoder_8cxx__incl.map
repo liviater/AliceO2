@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Decoder/src/testPageDecoder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Decoder/src/testPageDecoder.cxx">
+<area shape="rect" id="node6" href="$dc/d3a/RDHManip_8h.html" title="MCHRawCommon/RDHManip.h" alt="" coords="345,370,568,397"/>
+<area shape="rect" id="node15" href="$d0/d64/DataFormats_8h.html" title="MCHRawCommon/DataFormats.h" alt="" coords="3009,370,3248,397"/>
+<area shape="rect" id="node16" href="$dc/d36/PageDecoder_8h.html" title="MCHRawDecoder/PageDecoder.h" alt="" coords="1542,288,1777,315"/>
+<area shape="rect" id="node31" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="1049,288,1248,315"/>
+<area shape="rect" id="node32" href="$de/d1f/RefBuffers_8h.html" title="RefBuffers.h" alt="" coords="593,370,694,397"/>
+<area shape="rect" id="node33" href="$da/db7/BareGBTDecoder_8h.html" title="BareGBTDecoder.h" alt="" coords="2151,124,2295,151"/>
+<area shape="rect" id="node13" href="$dd/d9a/RDHFields_8h.html" title="MCHRawCommon/RDHFields.h" alt="" coords="23,452,245,479"/>
+<area shape="rect" id="node18" href="$dd/d58/SampaChannelHandler_8h.html" title="MCHRawDecoder/SampaChannel\lHandler.h" alt="" coords="1769,363,2005,404"/>
+<area shape="rect" id="node25" href="$d2/d71/MUON_2MCH_2Raw_2ElecMap_2include_2MCHRawElecMap_2Mapper_8h.html" title="MCHRawElecMap/Mapper.h" alt="" coords="1423,370,1621,397"/>
+<area shape="rect" id="node19" href="$d0/d5b/SampaCluster_8h.html" title="MCHRawCommon/SampaCluster.h" alt="" coords="1847,452,2093,479"/>
+<area shape="rect" id="node22" href="$d4/d09/DsElecId_8h.html" title="MCHRawElecMap/DsElecId.h" alt="" coords="1453,452,1660,479"/>
+<area shape="rect" id="node28" href="$d5/dcd/DsDetId_8h.html" title="MCHRawElecMap/DsDetId.h" alt="" coords="1109,452,1311,479"/>
+<area shape="rect" id="node29" href="$d8/d97/FeeLinkId_8h.html" title="MCHRawElecMap/FeeLinkId.h" alt="" coords="874,452,1085,479"/>
+<area shape="rect" id="node34" href="$d7/ddc/BareElinkDecoder_8h.html" title="BareElinkDecoder.h" alt="" coords="2541,288,2690,315"/>
+<area shape="rect" id="node35" href="$dc/d46/Assertions_8h.html" title="Assertions.h" alt="" coords="2883,370,2985,397"/>
+<area shape="rect" id="node39" href="$d7/dee/MakeArray_8h.html" title="MakeArray.h" alt="" coords="2083,206,2185,233"/>
+<area shape="rect" id="node42" href="$d0/da1/PayloadDecoder_8h.html" title="PayloadDecoder.h" alt="" coords="1745,206,1883,233"/>
+<area shape="rect" id="node36" href="$d5/d49/SampaHeader_8h.html" title="MCHRawCommon/SampaHeader.h" alt="" coords="2460,452,2707,479"/>
+</map>

@@ -1,0 +1,59 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Tracking/src/TrackFinderOriginalSpec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Tracking/src/TrackFinderOriginalSpec.cxx">
+<area shape="rect" id="node2" href="$de/dc6/ConfigParamRegistry_8h.html" title="Framework/ConfigParamRegistry.h" alt="" coords="2981,743,3223,770"/>
+<area shape="rect" id="node9" href="$d8/d3a/TrackFinderOriginalSpec_8h.html" title="Definition of a data processor to read clusters, reconstruct tracks and send them. " alt="" coords="2097,124,2286,151"/>
+<area shape="rect" id="node10" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="1811,199,2046,225"/>
+<area shape="rect" id="node32" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="491,743,655,770"/>
+<area shape="rect" id="node68" href="$d3/ddf/Output_8h.html" title="Framework/Output.h" alt="" coords="1079,654,1234,681"/>
+<area shape="rect" id="node86" href="$d9/d7f/CallbackService_8h.html" title="Framework/CallbackService.h" alt="" coords="5929,273,6144,300"/>
+<area shape="rect" id="node89" href="$d2/d43/ControlService_8h.html" title="Framework/ControlService.h" alt="" coords="5909,124,6114,151"/>
+<area shape="rect" id="node90" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="5761,199,5899,225"/>
+<area shape="rect" id="node92" href="$d3/db8/ClusterBlock_8h.html" title="Definition of the MCH cluster minimal structure. " alt="" coords="6139,423,6321,449"/>
+<area shape="rect" id="node94" href="$d6/d45/TrackBlock_8h.html" title="Definition of the MCH track parameters minimal structure. " alt="" coords="6565,423,6735,449"/>
+<area shape="rect" id="node95" href="$de/d4b/TrackParam_8h.html" title="Definition of the MCH track parameters for internal use. " alt="" coords="6447,348,6557,375"/>
+<area shape="rect" id="node97" href="$d5/d88/Detectors_2MUON_2MCH_2Tracking_2src_2Cluster_8h.html" title="Cluster.h" alt="" coords="6244,348,6323,375"/>
+<area shape="rect" id="node98" href="$d8/d80/Detectors_2MUON_2MCH_2Tracking_2src_2Track_8h.html" title="Track.h" alt="" coords="6425,273,6493,300"/>
+<area shape="rect" id="node99" href="$d7/d7f/TrackFinderOriginal_8h.html" title="Definition of a class to reconstruct tracks with the original algorithm. " alt="" coords="6271,124,6429,151"/>
+<area shape="rect" id="node3" href="$df/d72/ParamRetriever_8h.html" title="Framework/ParamRetriever.h" alt="" coords="3083,825,3292,852"/>
+<area shape="rect" id="node11" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="3390,273,3595,300"/>
+<area shape="rect" id="node14" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="2227,743,2388,770"/>
+<area shape="rect" id="node31" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="799,572,973,599"/>
+<area shape="rect" id="node71" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="332,654,517,681"/>
+<area shape="rect" id="node80" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="1575,743,1797,770"/>
+<area shape="rect" id="node85" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="1576,273,1815,300"/>
+<area shape="rect" id="node12" href="$de/d6a/ProcessingContext_8h.html" title="Framework/ProcessingContext.h" alt="" coords="3377,348,3608,375"/>
+<area shape="rect" id="node73" href="$d7/dad/ErrorContext_8h.html" title="Framework/ErrorContext.h" alt="" coords="2903,348,3095,375"/>
+<area shape="rect" id="node77" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="3171,348,3353,375"/>
+<area shape="rect" id="node78" href="$de/d9b/FunctionalHelpers_8h.html" title="Framework/FunctionalHelpers.h" alt="" coords="5671,654,5898,681"/>
+<area shape="rect" id="node13" href="$d6/d5c/InputRecord_8h.html" title="Framework/InputRecord.h" alt="" coords="2906,423,3093,449"/>
+<area shape="rect" id="node61" href="$d1/d28/DataAllocator_8h.html" title="Framework/DataAllocator.h" alt="" coords="4431,497,4629,524"/>
+<area shape="rect" id="node15" href="$d5/db8/DataRefUtils_8h.html" title="Framework/DataRefUtils.h" alt="" coords="2293,654,2485,681"/>
+<area shape="rect" id="node16" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="5267,743,5441,770"/>
+<area shape="rect" id="node18" href="$db/d31/Traits_8h.html" title="Framework/Traits.h" alt="" coords="5819,825,5964,852"/>
+<area shape="rect" id="node22" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1115,825,1284,852"/>
+<area shape="rect" id="node28" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1238,907,1433,934"/>
+<area shape="rect" id="node30" href="$d5/d19/InputRoute_8h.html" title="Framework/InputRoute.h" alt="" coords="2781,497,2961,524"/>
+<area shape="rect" id="node55" href="$da/d0f/InputSpan_8h.html" title="Framework/InputSpan.h" alt="" coords="2611,654,2785,681"/>
+<area shape="rect" id="node56" href="$dc/d03/TableConsumer_8h.html" title="Framework/TableConsumer.h" alt="" coords="3937,572,4147,599"/>
+<area shape="rect" id="node57" href="$d7/d91/BoostSerializer_8h.html" title="Templatised boost serializer/deserializer for containers and base types. " alt="" coords="5317,825,5541,852"/>
+<area shape="rect" id="node33" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="123,743,374,770"/>
+<area shape="rect" id="node34" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="708,647,904,688"/>
+<area shape="rect" id="node35" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="1303,736,1501,777"/>
+<area shape="rect" id="node37" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="2023,743,2151,770"/>
+<area shape="rect" id="node38" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="6408,825,6684,852"/>
+<area shape="rect" id="node62" href="$df/d2f/ContextRegistry_8h.html" title="Framework/ContextRegistry.h" alt="" coords="4676,825,4888,852"/>
+<area shape="rect" id="node64" href="$dc/dc4/MessageContext_8h.html" title="Framework/MessageContext.h" alt="" coords="4323,654,4542,681"/>
+<area shape="rect" id="node65" href="$d8/d71/FairMQDeviceProxy_8h.html" title="Framework/FairMQDeviceProxy.h" alt="" coords="4013,825,4247,852"/>
+<area shape="rect" id="node66" href="$dd/df6/StringContext_8h.html" title="Framework/StringContext.h" alt="" coords="4233,743,4432,770"/>
+<area shape="rect" id="node67" href="$d8/d25/RawBufferContext_8h.html" title=" " alt="" coords="4557,743,4785,770"/>
+<area shape="rect" id="node69" href="$d6/d5a/OutputRef_8h.html" title="Framework/OutputRef.h" alt="" coords="2043,654,2217,681"/>
+<area shape="rect" id="node70" href="$d6/df4/OutputRoute_8h.html" title="Framework/OutputRoute.h" alt="" coords="3184,572,3375,599"/>
+<area shape="rect" id="node72" href="$d7/d31/DataChunk_8h.html" title="Framework/DataChunk.h" alt="" coords="5980,572,6163,599"/>
+<area shape="rect" id="node74" href="$d8/d17/ServiceRegistry_8h.html" title="Framework/ServiceRegistry.h" alt="" coords="3693,654,3903,681"/>
+<area shape="rect" id="node75" href="$d9/de8/CompilerBuiltins_8h.html" title="Framework/CompilerBuiltins.h" alt="" coords="3511,743,3730,770"/>
+<area shape="rect" id="node76" href="$d2/d9a/TypeIdHelpers_8h.html" title="Framework/TypeIdHelpers.h" alt="" coords="3754,743,3957,770"/>
+<area shape="rect" id="node79" href="$dd/dce/Pack_8h.html" title="Framework/Pack.h" alt="" coords="6091,825,6231,852"/>
+<area shape="rect" id="node81" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="832,825,988,852"/>
+<area shape="rect" id="node87" href="$d7/d3e/CallbackRegistry_8h.html" title="A generic registry for callbacks. " alt="" coords="6125,654,6266,681"/>
+<area shape="rect" id="node91" href="$d0/d77/EndOfStreamContext_8h.html" title="Framework/EndOfStreamContext.h" alt="" coords="3909,348,4156,375"/>
+<area shape="rect" id="node100" href="$de/d6b/MUON_2MCH_2Tracking_2src_2TrackFitter_8h.html" title="TrackFitter.h" alt="" coords="6321,199,6421,225"/>
+</map>

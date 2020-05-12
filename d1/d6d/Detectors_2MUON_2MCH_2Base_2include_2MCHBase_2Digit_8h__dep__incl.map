@@ -1,0 +1,26 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Base/include/MCHBase/Digit.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Base/include/MCHBase/Digit.h">
+<area shape="rect" id="node2" href="$d3/d39/MCH_2Base_2include_2MCHBase_2PreCluster_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Base\l/include/MCHBase/PreCluster.h" alt="" coords="476,124,697,195"/>
+<area shape="rect" id="node4" href="$db/dad/PreClusterFinder_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/PreClustering\l/include/MCHPreClustering/PreClusterFinder.h" alt="" coords="5,243,320,313"/>
+<area shape="rect" id="node6" href="$df/d50/PreClusterFinderSpec_8cxx.html" title="Implementation of a data processor to run the preclusterizer. " alt="" coords="471,361,703,432"/>
+<area shape="rect" id="node7" href="$d0/d5c/PreClusterSinkSpec_8cxx.html" title="Implementation of a data processor to write preclusters. " alt="" coords="624,243,856,313"/>
+<area shape="rect" id="node8" href="$df/d26/Detectors_2MUON_2MCH_2Base_2src_2Digit_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Base\l/src/Digit.cxx" alt="" coords="1230,124,1434,195"/>
+<area shape="rect" id="node9" href="$da/d5e/MUON_2MCH_2Simulation_2include_2MCHSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/include/MCHSimulation/Digitizer.h" alt="" coords="1798,124,2045,195"/>
+<area shape="rect" id="node11" href="$dc/dc3/testDigitization_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/test/testDigitization.cxx" alt="" coords="1731,243,1973,313"/>
+<area shape="rect" id="node12" href="$db/d2f/MCHDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MCHDigitizerSpec.cxx" alt="" coords="1997,243,2189,313"/>
+<area shape="rect" id="node13" href="$df/d3f/Response_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/include/MCHSimulation/Response.h" alt="" coords="1458,124,1713,195"/>
+<area shape="rect" id="node16" href="$d9/d18/benchDigitMerging_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/test/benchDigitMerging.cxx" alt="" coords="2213,243,2456,313"/>
+<area shape="rect" id="node17" href="$d4/d2c/DigitMerging_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/test/DigitMerging.h" alt="" coords="2169,124,2412,195"/>
+<area shape="rect" id="node19" href="$d9/d60/testDigitMerging_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/test/testDigitMerging.cxx" alt="" coords="2747,243,2989,313"/>
+<area shape="rect" id="node20" href="$d0/d75/DataDecoderSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Workflow\l/src/DataDecoderSpec.cxx" alt="" coords="2487,124,2719,195"/>
+<area shape="rect" id="node21" href="$dd/da0/digits-sink-workflow_8cxx.html" title="This is an executable that dumps to a file on disk the digits received via DPL. " alt="" coords="2743,124,2975,195"/>
+<area shape="rect" id="node22" href="$d2/d75/DigitSamplerSpec_8cxx.html" title="Implementation of a data processor to read and send digits. " alt="" coords="2999,124,3231,195"/>
+<area shape="rect" id="node23" href="$db/d1c/file-to-digits-workflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Workflow\l/src/file&#45;to&#45;digits&#45;workflow.cxx" alt="" coords="3255,124,3487,195"/>
+<area shape="rect" id="node24" href="$d8/d60/MCHDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MCHDigitWriterSpec.h" alt="" coords="3511,124,3703,195"/>
+<area shape="rect" id="node3" href="$df/df1/MCH_2Base_2src_2PreCluster_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Base\l/src/PreCluster.cxx" alt="" coords="345,243,549,313"/>
+<area shape="rect" id="node5" href="$d8/dfc/PreClusterFinder_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/PreClustering\l/src/PreClusterFinder.cxx" alt="" coords="33,361,292,432"/>
+<area shape="rect" id="node10" href="$d7/de0/MUON_2MCH_2Simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/src/Digitizer.cxx" alt="" coords="1464,243,1707,313"/>
+<area shape="rect" id="node14" href="$d9/dbf/Response_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/src/Response.cxx" alt="" coords="931,243,1173,313"/>
+<area shape="rect" id="node15" href="$d5/d7c/testResponse_8cxx.html" title="This task tests of the Response of the MCH digitization. " alt="" coords="1197,243,1440,313"/>
+<area shape="rect" id="node18" href="$d0/dcc/DigitMerging_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/test/DigitMerging.cxx" alt="" coords="2480,243,2723,313"/>
+<area shape="rect" id="node25" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="3489,243,3724,313"/>
+</map>

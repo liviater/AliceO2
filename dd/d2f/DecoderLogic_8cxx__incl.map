@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Decoder/src/DecoderLogic.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Decoder/src/DecoderLogic.cxx">
+<area shape="rect" id="node2" href="$d7/d1c/DecoderLogic_8h.html" title="DecoderLogic.h" alt="" coords="667,124,790,151"/>
+<area shape="rect" id="node17" href="$d4/deb/Debug_8h.html" title="Debug.h" alt="" coords="913,124,989,151"/>
+<area shape="rect" id="node18" href="$d0/d64/DataFormats_8h.html" title="MCHRawCommon/DataFormats.h" alt="" coords="1013,124,1252,151"/>
+<area shape="rect" id="node5" href="$dd/d58/SampaChannelHandler_8h.html" title="MCHRawDecoder/SampaChannel\lHandler.h" alt="" coords="688,199,924,240"/>
+<area shape="rect" id="node11" href="$d4/d09/DsElecId_8h.html" title="MCHRawElecMap/DsElecId.h" alt="" coords="800,288,1007,315"/>
+<area shape="rect" id="node15" href="$d5/d49/SampaHeader_8h.html" title="MCHRawCommon/SampaHeader.h" alt="" coords="368,288,615,315"/>
+<area shape="rect" id="node7" href="$d0/d5b/SampaCluster_8h.html" title="MCHRawCommon/SampaCluster.h" alt="" coords="98,288,343,315"/>
+</map>
