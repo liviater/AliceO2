@@ -28,8 +28,8 @@ typedef std::chrono::high_resolution_clock myclock;
 int main(int argc, char* argv[])
 {
   std::string inFilenameO2 = "mid-tracks.root";
- // std::string inFilenameO2simKine = "o2sim_Kine.root";
- // std::string outFilename = "MIDReadTracks.root";
+  std::string inFilenameO2simKine = "o2sim_Kine.root";
+  std::string outFilename = "MIDReadTracks.root";
  
 
   po::options_description generic("Generic options");
@@ -38,7 +38,7 @@ int main(int argc, char* argv[])
   generic.add_options()
           ("help", "produce help message")
           ("o2-tracks-filename",po::value<std::string>(&inFilenameO2),"input o2 tracks");
-       //   ("o2-sim-filename",po::value<std::string>(&inFilenameO2simKine),"input o2sim track");
+          ("o2-sim-filename",po::value<std::string>(&inFilenameO2simKine),"input o2sim track");
       //    ("output", po::value<std::string>(&outFilename),"basename of output file");
 
   // po::options_description hidden("hidden options");
@@ -90,12 +90,12 @@ int main(int argc, char* argv[])
 
 //Simulated tracks______________________________________________
 //______________________________________________________________
- // TFile* mcFile = TFile::Open(inFilenameO2simKine.c_str());
-//  TTree* mcTree = static_cast<TTree*>(mcFile->Get("o2sim"));
-//  std::vector<o2::MCTrackT<float>>* mcTracks = nullptr;
-//  mcTree->SetBranchAddress("MCTrack", &mcTracks);
+  TFile* mcFile = TFile::Open(inFilenameO2simKine.c_str());
+  TTree* mcTree = static_cast<TTree*>(mcFile->Get("o2sim"));
+  std::vector<o2::MCTrackT<float>>* mcTracks = nullptr;
+  mcTree->SetBranchAddress("MCTrack", &mcTracks);
 
-
+ 
  o2::mid::ReadTracks readTracks;
 
 //Loop
@@ -103,7 +103,7 @@ int main(int argc, char* argv[])
     tree->GetEvent(ievt);
 
 
-    readTracks.process(*tracks, *rofRecords, *trackLabelsMC);
+    readTracks.process(*mcTree, *tracks, *rofRecords, *mcTracks, *trackLabelsMC);
 
    }  //ievt
 

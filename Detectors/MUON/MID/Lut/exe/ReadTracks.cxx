@@ -46,15 +46,15 @@ void ReadTracks::initHistos()
 }
 
 
-void ReadTracks::process(const std::vector<Track>& o2tracks, const std::vector<ROFRecord>& rofRecord, const dataformats::MCTruthContainer<MCCompLabel>& trackLabelMC)
+void ReadTracks::process(TTree& MCTree, const std::vector<Track>& o2tracks, const std::vector<ROFRecord>& rofRecord, const std::vector<MCTrackT<float>>& MCTracks, const dataformats::MCTruthContainer<MCCompLabel>& trackLabelMC)
 {
-	const std::string path = "./";
+	/*const std::string path = "./";
 	const std::string simfilename = "o2sim_Kine.root";
  	TChain mcTree("o2sim");
     mcTree.AddFile((path + simfilename).data());
 
 	std::vector<o2::MCTrack> *MCTracks = nullptr;
-  	mcTree.SetBranchAddress("MCTrack", &MCTracks);
+  	mcTree.SetBranchAddress("MCTrack", &MCTracks); */
 
 
   const int ndimension = 4;
@@ -72,11 +72,14 @@ void ReadTracks::process(const std::vector<Track>& o2tracks, const std::vector<R
         auto o2tr = o2tracks[itrack];
         if (labels.size() == 1) {
 		   for (auto& label : labels) {
-            if(mcTree.GetReadEntry() != label.getEventID()){
-          mcTree.GetEntry(label.getEventID());
+		   	 if ( !label.isSet() ) {
+           		continue;
+         	  }
+            if(MCTree.GetReadEntry() != label.getEventID()){
+         	 MCTree.GetEntry(label.getEventID());
             }
        
-          const auto& mcTrack = (*MCTracks)[label.getTrackID()];
+          auto mcTrack = MCTracks[label.getTrackID()];
         
           double xPos = o2tr.getPositionX();
           std::cout << "X:" << xPos << std::endl;

@@ -39,7 +39,7 @@ class ReadTracks
   ReadTracks();
  
 
-  void process(const std::vector<Track>& o2tracks, const std::vector<ROFRecord>& rofRecords, const dataformats::MCTruthContainer<MCCompLabel>& trackLabelMC);
+  void process(TTree& MCTree, const std::vector<Track>& o2tracks, const std::vector<ROFRecord>& rofRecords, const std::vector<MCTrackT<float>>& MCTracks, const dataformats::MCTruthContainer<MCCompLabel>& trackLabelMC);
 
 //  bool saveResults(const char* filename) const;
 
